@@ -8,9 +8,17 @@ My name is Nicholas or Vexary, I am a 19-year-old male from the United States of
 
 ## My Skills
 
- - Operations Management        Staff Management
- - Community Management        Staffing Services
- - Screen Sharing            Discord Setup & Management
- - Document Writing            System Administration
- - Xenforo  Management        Plugin Configuration
- - Lore Writing                Bug Fixing
+ - Operations Management        
+ - Staff Management
+ - Community Management       
+ - Screen Sharing            
+ - Discord Setup & Management
+ - Document Writing            
+ - Xenforo  Management        
+ - Plugin Configuration
+ - Lore Writing                
+ - Bug Fixing
+
+## Coding Languages
+![Node.js](https://img.shields.io/badge/-Node.js-0C1324?style=flat-square&logo=Node.js&logoColor=ffffff)
+![JS](https://img.shields.io/badge/-Node.js-0C1324?style=flat-square&logo=JS&logoColor=ffffff)
