@@ -21,4 +21,4 @@ My name is Nicholas or Vexary, I am a 19-year-old male from the United States of
 
 ## Coding Languages
 ![Node.js](https://img.shields.io/badge/-Node.js-0C1324?style=flat-square&logo=Node.js&logoColor=ffffff)
-![JS](https://img.shields.io/badge/-Node.js-0C1324?style=flat-square&logo=JS&logoColor=ffffff)
+![JS](https://img.shields.io/badge/-js-0C1324?style=flat-square&logo=JS&logoColor=ffffff)
