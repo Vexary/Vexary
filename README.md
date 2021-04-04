@@ -19,7 +19,6 @@ My name is Nicholas or Vexary, I am a 19-year-old male from the United States of
  - Lore Writing                
  - Bug Fixing
 
-### Full Resume Link
-[Click Here](https://docs.google.com/document/d/1ctOSsH1BwAHApTbQ4BTPHM4bKS1Dt_RcqBCbPMbOKPM/edit#heading=h.w6o1izaob9as).
+### Full Resume Link [Click Here](https://docs.google.com/document/d/1ctOSsH1BwAHApTbQ4BTPHM4bKS1Dt_RcqBCbPMbOKPM/edit#heading=h.w6o1izaob9as).
 
 
