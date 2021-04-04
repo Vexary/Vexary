@@ -6,7 +6,7 @@
 
 My name is Nicholas or Vexary, I am a 19-year-old male from the United States of America, I started doing management in March of 2014. I have spent the last 5 years of my life dedicating it to helping people with their Minecraft networks and projects.I've spent my time in this community  building a really good reputation for myself as a Server Manager and Staff Member and plan to use my reputation and contacts to grow and help your server grow to the next level. My passion and love is helping people and have been doing it since I was a young child, I am currently studying Criminal Justice in college and plan to one day become a member of Law Enforcement. I also own my own Esports & Game Server Management Team called Menace Management.
 
-## My Skills
+### My Skills
 
  - Operations Management        
  - Staff Management
@@ -19,6 +19,7 @@ My name is Nicholas or Vexary, I am a 19-year-old male from the United States of
  - Lore Writing                
  - Bug Fixing
 
-## Coding Languages
-![Node.js](https://img.shields.io/badge/-Node.js-0C1324?style=flat-square&logo=Node.js&logoColor=ffffff)
-![JS](https://img.shields.io/badge/-js-0C1324?style=flat-square&logo=JS&logoColor=ffffff)
+### Full Resume Link
+[Click Here](https://docs.google.com/document/d/1ctOSsH1BwAHApTbQ4BTPHM4bKS1Dt_RcqBCbPMbOKPM/edit#heading=h.w6o1izaob9as).
+
+
